@@ -1,12 +1,6 @@
 Requires DirectX11 (Feb 2010).  Made in Visual Studio 2010 in Windows 7.
-If you can't get it to work on your machine, please let me know.
-
-There's not much to it: right click to attract the points, left click to repel them.
-Spacebar resets the simulation.  That's it!
-
-This is my first submission so if I'm doing something n00bish please tell me.
-
-Also, I should probably mention that I used this DirectX tutorial as a starting point for this project.
+I used this DirectX tutorial as a starting point for this project.
 http://www.directxtutorial.com/Tutorial11/B-A/BA5.aspx
 
--ProfessorFluffy
+
+Right click to attract the points, left click to repel them. Spacebar resets the simulation.
